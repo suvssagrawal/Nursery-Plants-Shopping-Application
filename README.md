@@ -5,20 +5,7 @@ A React + Redux + Vite based **Nursery Plant Shopping** application where users 
 
 ---
 
-## 🔍 Table of Contents
 
-- [Overview](#overview)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Project Structure](#project-structure)  
-- [Setup & Installation](#setup--installation)  
-- [Usage](#usage)  
-- [Screenshots](#screenshots)  
-- [Future Enhancements](#future-enhancements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
 
 ## 📚 Overview
 
