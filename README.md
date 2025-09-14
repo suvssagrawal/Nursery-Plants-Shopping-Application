@@ -1,6 +1,6 @@
 # 🌿 Nursery Plants Shopping Application
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://suvssagrawal.github.io/Nursery-Plants-Shopping-Application/)  
+[![Live Demo]( https://suvssagrawal.github.io/Nursery-Plants-Shopping-Application/)  
 A React + Redux + Vite based **Nursery Plant Shopping** application where users can browse plants, add them to the cart, manage quantities, and view total costs.  
 
 ---
